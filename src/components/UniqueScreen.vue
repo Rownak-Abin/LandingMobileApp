@@ -1,5 +1,5 @@
 <script>
-  const img = "/assets/images/home-left-1.png"
+  const img = "/assets/home-left-1.png"
 </script>
 <template>
     <section class="screen_area text-center p_120">

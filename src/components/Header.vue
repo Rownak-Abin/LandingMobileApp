@@ -2,7 +2,7 @@
 
 const site = "https://preview.colorlib.com/theme/nexus/"
 const navSite = "nav-item"
-const logo = "/assets/images/logo.png"
+const logo = "/assets/logo.png"
 
 </script>
 

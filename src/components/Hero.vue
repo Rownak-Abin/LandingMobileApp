@@ -1,7 +1,7 @@
 <script setup>
 
 const site = "https://preview.colorlib.com/theme/nexus/#";
-const img = "/assets/images/home-left-1.png"
+const img = "/assets/home-left-1.png"
 
 </script>
 

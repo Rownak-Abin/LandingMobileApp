@@ -1,7 +1,7 @@
 <script setup>
 
 const site = "https://preview.colorlib.com/theme/nexus/#";
-const browser = "/assets/images/browser.png"
+const browser = "/assets/browser.png"
 
 </script>
 
