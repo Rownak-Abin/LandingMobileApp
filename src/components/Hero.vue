@@ -1,7 +1,6 @@
 <script setup>
 
 const site = "https://preview.colorlib.com/theme/nexus/#";
-const img = "/assets/home-left-1.png"
 
 </script>
 
@@ -22,7 +21,7 @@ const img = "/assets/home-left-1.png"
           </div>
           <div class="col-lg-7">
             <div class="home_left_img">
-              <img class="img-fluid" :src="img" alt="">
+              <img class="img-fluid" src="../assets/images/home-left-1.png" alt="">
             </div>
           </div>
         </div>
